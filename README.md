@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PyTorch and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aslamshaw](https://github.com/aslamshaw)
+- 👨‍💻 My github repo [[https://github.com/aslamshaw](https://github.com/aslamshaw)](https://github.com/aslamshaw?tab=repositories)
 
 - 💬 Ask me about **TensorFlow, scikit-learn and pandas**
 
