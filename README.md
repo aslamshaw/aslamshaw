@@ -1,29 +1,87 @@
-<h1 align="center">Hello 👋, I'm Anvar Mohamed Aslam Sha</h1>
-<h3 align="center">A Machine Learning Enthusiast experienced at creating regression model to solve inverse problems in machine learning.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
+# Hi there 👋, I'm Anvar Mohamed Aslam Sha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aslamshaw&label=Profile%20views&color=0e75b6&style=flat" alt="aslamshaw" /> </p>
+## 🚀 Machine Learning & Data Enthusiast | 📊 Business & Data Analyst | 💡 Problem Solver
 
-- 🌱 I’m currently learning **PyTorch and Node.js**
+![coding-gif](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
 
-- 👨‍💻 My github repo [[https://github.com/aslamshaw](https://github.com/aslamshaw)](https://github.com/aslamshaw?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=aslamshaw&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/aslamshaw)
 
-- 💬 Ask me about **TensorFlow, scikit-learn and pandas**
+---
 
-- 📫 How to reach me **aslamshaw97@gmail.com**
+## 👨‍💻 About Me
 
-- ⚡ Fun fact **I speak 4 languages**
+- 🎓 MSc. in Advanced Computational & Civil Engineering Structural Studies (ACCESS) – TU Dresden, Germany  
+- 💼 Freelance **Business & Data Analyst** | Formerly at **CARBOCON GmbH, Germany**
+- 🧠 Experienced in advanced regression models for inverse problems using machine learning
+- 📚 Currently learning **PyTorch** & **Node.js**
+- 🏆 Ranked **#1** in **HackerRank SQL Challenges** globally
+- 💻 Actively solving problems on **StrataScratch** to further enhance my data analysis and SQL skills
+- 📊 Skilled in data analysis, predictive modeling, and developing business insights from complex datasets
 
+---
 
-<p align="left">
-<a href="https://linkedin.com/in/aslam sha anvar mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslam sha anvar mohamed" height="30" width="40" /></a>
-</p>
+## 🔧 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **[Predictive Sales Model](https://github.com/aslamshaw/predictive-sales-model)**: Built a regression model to forecast sales data using machine learning techniques.
+- **[Customer Segmentation Tool](https://github.com/aslamshaw/customer-segmentation)**: Developed a k-means clustering model to segment customers based on purchasing behavior.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslamshaw&show_icons=true&locale=en&layout=compact" alt="aslamshaw" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslamshaw&show_icons=true&locale=en" alt="aslamshaw" /></p>
+## 🔍 Ask Me About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslamshaw&" alt="aslamshaw" /></p>
+- Data Forecasting & Time Series Analysis  
+- Regression Models & Model Optimization  
+- Power BI, Tableau, and Visual Storytelling  
+- TensorFlow, PyTorch, Scikit-learn, Pandas  
+- Automating Data Pipelines and Cleaning Workflows
+
+---
+
+## 📫 Reach Me At
+
+- 📧 **aslamshaw97@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/aslamshaw)  
+- 🌐 [GitHub](https://github.com/aslamshaw)
+
+---
+
+## ⚡ Fun Facts
+
+- I speak **4 languages**: English, Hindi, German, and Tamil 🌍  
+- Passionate about **machine learning**, **football**, and discovering new cultures  
+- Enjoy solving puzzles and brain teasers 🧩
+- Love experimenting with new cuisines 🍲
+
+---
+
+## 🛠️ Languages & Tools
+
+- **Languages**: Python, JavaScript, SQL
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
+- **Data Analysis**: Pandas, Numpy, Seaborn
+- **Databases**: MySQL, PostgreSQL
+- **Visualization**: Power BI, Tableau, Matplotlib
+- **Tools**: Git, Linux, MATLAB, OpenCV
+
+---
+
+## 🗣️ Testimonials
+
+> "Mr. Anvar Mohamed Aslam Sha has an extensive specialist knowledge from his studies, which he used to successfully complete the research aims of his thesis. He impressed us with his technical understanding and his ability to understand complex relationships. During his thesis he always showed a high level of initiative and a willingness to acquire and apply new knowledge. When carrying out his tasks, he always proceeded in a structured and well- planned manner."  
+— [Prof. Dr.-Ing. Alexander Schumann, CEO at CARBOCON GmbH]([https://linkedin.com](https://de.linkedin.com/in/alexander-schumann-7522b915b/en))
+
+---
+
+## 🤝 Let's Connect!
+
+If you're interested in collaborating on exciting data-driven projects or have any questions, feel free to reach out via email or LinkedIn.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslamshaw&show_icons=true&locale=en)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aslamshaw&show_icons=true&locale=en&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aslamshaw)
