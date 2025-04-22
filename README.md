@@ -73,7 +73,7 @@
 > "Mr. Aslam Sha took part in the module "Numerical Methods" hold by me. Within the module "Numerical Methods" Mr. Aslam Sha acquired knowledge of the application of basic as well as advanced numerical algorithms for the solution of engineering problems as well as of the implementation of these algorithms in complex software solutions.
 Under my supervision Mr. Aslam Sha wrote his project work on the topic "Analysis of an autoencoder-based approach for determining the configuration of embedded obstacles" including an oral presentation.
 Mr. Aslam Sha's behaviour towards his lecturers and fellow students was always exemplary, friendly and beyond reproach."  
-— [Prof. Dr.-Ing. habil. Uwe Reuter, IT Service Center Faculty Civil Engineering- Academic Staff](https://fis.tu-dresden.de/portal/en/researchers/uwe-reuter(cfa7c668-e2e3-4eba-8ac0-d894c7bcb7e6).html) 
+— [Prof. Dr.-Ing. habil. Uwe Reuter, Academic Staff at Technische Universität Dresden](https://fis.tu-dresden.de/portal/en/researchers/uwe-reuter(cfa7c668-e2e3-4eba-8ac0-d894c7bcb7e6).html) 
 
 ---
 
