@@ -39,7 +39,8 @@
 
 ## 📫 Reach Me At
 
-- 📧 **aslamshaw97@gmail.com**  
+- 📧 **aslamshaw97@gmail.com**
+- 💻 [My Portfolio](https://aslamshaw.github.io/)
 - 💼 [LinkedIn](https://linkedin.com/in/aslamshaw)  
 - 🌐 [GitHub](https://github.com/aslamshaw)
 
